@@ -3,5 +3,5 @@ output_dir: "."
 navbar:
   title: "Chris Bow - Marketer & Data Scientist"
   left:
-    - text: "At Home"
+    - text: "Home"
       href: index.html
