@@ -1,0 +1,5 @@
+---
+title: "Chris Bow"
+---
+
+Full-time data analyst & marketer; occasional lecturer; former scientist; consultant for Cairney & Company. lm(dataScience ~ jaffaCakes, data = cupOfTea)

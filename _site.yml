@@ -1,0 +1,7 @@
+name: "chris-website"
+output_dir: "."
+navbar:
+  title: "Chris Bow - Marketer & Data Scientist"
+  left:
+    - text: "At Home"
+      href: index.html
